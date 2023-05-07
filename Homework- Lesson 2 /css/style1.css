@@ -1,0 +1,24 @@
+body {
+  background-color: #ffdab9;
+}
+
+h4 {
+  color: #d33f0e;
+}
+
+img {
+  width: 400px;
+  height: 150px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #d33f0e;
+}
+
+a:visited {
+  color: #bf56bf;
+}
+a:hover {
+  color: yellow;
+}

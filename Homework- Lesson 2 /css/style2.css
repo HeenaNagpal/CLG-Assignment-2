@@ -1,0 +1,30 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 50px;
+  font-weight: 100;
+  font-style: normal;
+  text-align: center;
+}
+h4 {
+  color: #d33f0e;
+}
+
+p {
+  color: #000000;
+  text-align: center;
+  font-weight: bold;
+}
+a:link {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
